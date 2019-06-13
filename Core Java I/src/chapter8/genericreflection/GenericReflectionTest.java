@@ -15,8 +15,7 @@ public class GenericReflectionTest
       String name;
       if (args.length > 0) {
          name = args[0];
-      } else
-      {
+      } else {
          try (Scanner in = new Scanner(System.in))
          {
             System.out.println("Enter class name (e.g., java.util.Collections): ");
