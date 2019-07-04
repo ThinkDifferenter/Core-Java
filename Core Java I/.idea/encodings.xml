@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/chapter14/blockingQueue" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/bounce" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/bounceThread" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/forkJoin" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/future" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/swing" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/swingWorker" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/synch" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/synch2" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/threadPool" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chapter14/unsynch" charset="GBK" />
+  </component>
+</project>
